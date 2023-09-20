@@ -21,6 +21,7 @@ namespace myWebApp.Pages
 
         public void OnGet()
         {
+
             //var s = _context.Students?.Where(d => d.ID == 2).FirstOrDefault();
             //this.StudentName = $"{s?.FirstMidName} {s?.LastName}";
         }
